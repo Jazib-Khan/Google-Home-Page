@@ -1,4 +1,4 @@
-# Google-Home-Page
+# Google Home Page
 
 ## Abstraction
 Practising responsive web design by creating the Google home page with HTML &amp; CSS
